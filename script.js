@@ -1,1 +1,1 @@
-let lists = document.getElementById("");
+let lists = document.getElementById("list");
