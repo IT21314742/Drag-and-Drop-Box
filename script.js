@@ -1,1 +1,1 @@
-let lists
+let lists = document
