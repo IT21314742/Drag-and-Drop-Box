@@ -11,7 +11,7 @@ for (list of lists){
         });
         rightBox.addEventListener("drop", function(e){
             rightBox.appendChild(selected);
-            selected:
+            selected = null;
         })
     })
 }
