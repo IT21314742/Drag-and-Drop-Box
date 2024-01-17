@@ -10,7 +10,8 @@ for (list of lists){
             e.preventDefault();
         });
         rightBox.addEventListener("drop", function(e){
-            rightBox.appendChild(selected)
+            rightBox.appendChild(selected);
+            selected
         })
     })
 }
