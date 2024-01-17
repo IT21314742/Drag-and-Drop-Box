@@ -1,2 +1,2 @@
 let lists = document.getElementById("list");
-let rightBox = document.getElementById("");
+let rightBox = document.getElementById("right");
