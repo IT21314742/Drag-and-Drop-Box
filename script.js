@@ -7,7 +7,7 @@ for (list of lists){
         let selected = e.target;
 
         rightBox.addEventListener("dragover", function(e){
-            e.
+            e.preventDefault
         })
     })
 }
