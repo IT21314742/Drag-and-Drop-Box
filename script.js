@@ -3,5 +3,5 @@ let rightBox = document.getElementById("right");
 let leftBox = document.getElementById("left");
 
 for (list of lists){
-    list.addEventListner("dragstart")
+    list.addEventListner("dragstart", function)
 }
