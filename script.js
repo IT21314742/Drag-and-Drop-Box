@@ -1,1 +1,1 @@
-let lists = document
+let lists = document.getElementById
