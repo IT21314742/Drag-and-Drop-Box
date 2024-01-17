@@ -9,6 +9,6 @@ for (list of lists){
         rightBox.addEventListener("dragover", function(e){
             e.preventDefault();
         });
-        rightBox
+        rightBox.addEventListener
     })
 }
