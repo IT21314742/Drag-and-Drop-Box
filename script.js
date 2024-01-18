@@ -13,5 +13,7 @@ for (list of lists){
             rightBox.appendChild(selected);
             selected = null;
         });
+
+        
     })
 }
