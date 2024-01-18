@@ -14,6 +14,6 @@ for (list of lists){
             selected = null;
         });
 
-        
+        leftBox.
     })
 }
