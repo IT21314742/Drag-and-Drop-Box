@@ -15,7 +15,7 @@ for (list of lists){
         });
 
         leftBox.addEventListener("dragover", function(e){
-            e.preventDefault()
+            e.preventDefault();
         })
     })
 }
