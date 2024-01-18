@@ -14,6 +14,6 @@ for (list of lists){
             selected = null;
         });
 
-        leftBox.addEventListener("dragover", function)
+        leftBox.addEventListener("dragover", function(e))
     })
 }
