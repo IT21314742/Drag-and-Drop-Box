@@ -20,7 +20,7 @@ for (list of lists){
 
         leftBox.addEventListener("drop", function(e){
             leftBox.appendChild(selected);
-            selected
+            selected = 
         })
     })
 }
