@@ -19,7 +19,7 @@ for (list of lists){
         });
 
         leftBox.addEventListener("drop", function(e){
-            leftBox.appendChild
+            leftBox.appendChild(selected)
         })
     })
 }
