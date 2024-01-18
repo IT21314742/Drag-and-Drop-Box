@@ -18,6 +18,6 @@ for (list of lists){
             e.preventDefault();
         });
 
-        leftBox.addEventListener("drop", function)
+        leftBox.addEventListener("drop", function(e))
     })
 }
